@@ -1,17 +1,129 @@
-import React from 'react';
-
 const DJS = [
   {
-    name: "T_TEST__",
-    genre: "Techno",
+    name: "DDlia",
+    genre: "Techno / Trance",
     time: "10:00-10:30",
-    image: "https://pbs.twimg.com/profile_images/1786438722772418563/GdVPILAx_400x400.jpg"
+    image: "https://pbs.twimg.com/profile_images/1724095036965715968/sOqXExU-_400x400.jpg"
   },
   {
-    name: "DDlia",
+    name: "hiziki",
     genre: "Techno",
     time: "10:30-11:00",
-    image: "https://pbs.twimg.com/profile_images/1724095036965715968/sOqXExU-_400x400.jpg"
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "komezi",
+    genre: "Garage",
+    time: "11:00-11:30",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "1000Shin",
+    genre: "Vocaloid",
+    time: "11:30-12:10",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "motty",
+    genre: "Vocaloid",
+    time: "11:30-12:10",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "與田レオ",
+    genre: "Unknown",
+    time: "12:10-12:40",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "きりしゃめ",
+    genre: "Hardcore",
+    time: "12:40-13:20",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "剛の舞DJ",
+    genre: "Hardcore",
+    time: "12:40-13:20",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "ククリ",
+    genre: "Unknown",
+    time: "13:20-13:50",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "くきわかめ",
+    genre: "Anime",
+    time: "13:50-14:20",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "Smith",
+    genre: "Anime + α",
+    time: "14:20-15:00",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "くぅ",
+    genre: "Anime + α",
+    time: "14:20-15:00",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "Ⱥcchi͛",
+    genre: "Subculture",
+    time: "15:00-15:30",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "空自の撮り",
+    genre: "J-POP",
+    time: "15:30-16:00",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "ぽんず",
+    genre: "Idol",
+    time: "16:00-16:40",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "nikko",
+    genre: "Idol",
+    time: "16:00-16:40",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "ぴっさん",
+    genre: "im@s / JPOP",
+    time: "16:40-17:10",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "s-knot",
+    genre: "Music Game",
+    time: "17:10-17:50",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "kz-don",
+    genre: "Music Game",
+    time: "17:10-17:50",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name:"ESU",
+    genre: "UK Hardcore / Happy Hardcore",
+    time: "17:50-18:20",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
+  },
+  {
+    name: "10-U",
+    genre: "Hardcore",
+    time: "18:20-18:50",
+    image: "https://technotut.net/_next/static/chunks/images/images/logo/Logo_Bblack_2_640.webp"
   }
 ];
 
